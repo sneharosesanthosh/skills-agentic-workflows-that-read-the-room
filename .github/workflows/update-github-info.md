@@ -12,6 +12,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   edit:
   web-fetch:
@@ -28,6 +29,10 @@ GitHub updates from:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
+
+Web fetch https://awesome-copilot.github.com/workflows/ to review the latest
+Awesome Copilot workflows and include relevant workflows among the sources.
 
 Use those sources to update `site/content/github-info.md` with short, practical
 guidance for developers. Mention the source whenever an update comes from the
